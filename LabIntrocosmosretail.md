@@ -7,4 +7,4 @@
 
 1. Refer the **Environment Details** tab for any other lab credentials/details.
 
-1. Before performing hands on lab you need to perform the Task 2 and Task 3 (i.e, Task 2: Get a Movie API Key Task 3: Deploy resources to Azure) from Before Hands On.
+1. Before performing **Cosmos DB scenario-based labs - Retail hands-on lab step-by-step** you need to perform the **Task 2** and **Task 3** (i.e, Task 2: Get a Movie API Key Task 3: Deploy resources to Azure) in **Cosmos DB scenario-based labs - Retail before the hands-on lab setup guide**.
